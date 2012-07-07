@@ -18,5 +18,7 @@ A waterfall plugin based on jquery. Supports window-resize & ajax.
 			animate_duration:500						//jquery animate duration. unit is the million-second. default to 1000.
 		});
 	});
+## contact me
+chemboking(at)qq.com
 
 
