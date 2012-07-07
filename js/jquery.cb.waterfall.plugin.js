@@ -17,7 +17,7 @@
  */
 (function($,window){
 	$window = $(window);
-	$.fn.waterflow = function(options){
+	$.fn.waterfall = function(options){
         var $element = $(this);
 		var settings = {
 			block_width				:230,				//one block's width. 
