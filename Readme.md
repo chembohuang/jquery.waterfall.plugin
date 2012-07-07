@@ -14,3 +14,6 @@
 			animate_duration:500						//jquery animate duration. unit is the million-second. default to 1000.
 		});
 	});
+[demo1](http://paradise4ever.com/waterfall/demo.html)
+[demo2](http://paradise4ever.com/qt/detail.html#photo_wall)
+
